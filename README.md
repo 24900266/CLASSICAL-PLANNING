@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+## Name: Preetha .K
+## Register number: 212224100044
 
 # Aim
 To solve Implementation of Classical Planning Algorithm using python
